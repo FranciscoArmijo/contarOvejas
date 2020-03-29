@@ -1,0 +1,9 @@
+D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\CONTAR OVEJAS\ContarOvejas\ContarOvejas\bin\Debug\ContarOvejas.exe.config
+D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\CONTAR OVEJAS\ContarOvejas\ContarOvejas\bin\Debug\ContarOvejas.exe
+D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\CONTAR OVEJAS\ContarOvejas\ContarOvejas\bin\Debug\ContarOvejas.pdb
+D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\CONTAR OVEJAS\ContarOvejas\ContarOvejas\obj\Debug\ContarOvejas.csprojAssemblyReference.cache
+D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\CONTAR OVEJAS\ContarOvejas\ContarOvejas\obj\Debug\ContarOvejas.Form1.resources
+D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\CONTAR OVEJAS\ContarOvejas\ContarOvejas\obj\Debug\ContarOvejas.Properties.Resources.resources
+D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\CONTAR OVEJAS\ContarOvejas\ContarOvejas\obj\Debug\ContarOvejas.csproj.GenerateResource.cache
+D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\CONTAR OVEJAS\ContarOvejas\ContarOvejas\obj\Debug\ContarOvejas.exe
+D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\CONTAR OVEJAS\ContarOvejas\ContarOvejas\obj\Debug\ContarOvejas.pdb
